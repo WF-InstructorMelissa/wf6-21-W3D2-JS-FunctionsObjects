@@ -17,3 +17,15 @@ http://pythontutor.com/javascript.html#mode=display
 
 Python version
 http://pythontutor.com/visualize.html#mode=edit
+
+
+API link to see that data is an array containing several objects
+https://looney-toons-api.herokuapp.com/api/characters
+
+HackerRank
+https://www.hackerrank.com/dashboard
+
+CodersRank
+https://profile.codersrank.io/user/melissa-24
+
+https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/

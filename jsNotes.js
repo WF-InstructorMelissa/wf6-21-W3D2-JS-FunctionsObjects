@@ -28,7 +28,7 @@ for(i = 0; i < arr.length; i++) {
 }
 console.log(arr)
 
-// We have an array with a length of 4
+// We have an array with a length of 9
 // Our for loop states that i will start at the 1st index, stop at the last index, and increase i by 1 each time we go through the loop
 // Step #1 Check the value of i move to step #2
 // Step #2 is i less than the length of the array?  if Yes move to step #4 if no move to Step #3
