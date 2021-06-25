@@ -9,3 +9,11 @@
 2. For Loops with conditionals
 3. Objects
 4. More Functions https://codepen.io/WolfsVeteran/pen/MWpNmNW?editors=1112
+
+Visualize functions in action via this terminal
+
+http://pythontutor.com/javascript.html#mode=display
+
+
+Python version
+http://pythontutor.com/visualize.html#mode=edit
