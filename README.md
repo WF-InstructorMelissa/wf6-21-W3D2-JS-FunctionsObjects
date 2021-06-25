@@ -9,6 +9,7 @@
 2. For Loops with conditionals
 3. Objects
 4. More Functions https://codepen.io/WolfsVeteran/pen/MWpNmNW?editors=1112
+5. also https://codepen.io/WolfsVeteran/pen/YzXyWdb?editors=1112
 
 Visualize functions in action via this terminal
 
